@@ -5,3 +5,4 @@ export * from './ForbiddenError';
 export * from './NotFoundError';
 export * from './RateLimitError';
 export * from './ConflictError';
+export * from './QuotaExceededError';
